@@ -4218,11 +4218,6 @@
 		}
 
 /* Footer */
-.footer{
-	 position:absolute;
-    bottom:0;
-    width:100%;
-}
 	#footer {
 		background-color: #1E2832;
 		color: rgba(255, 255, 255, 0.75);
